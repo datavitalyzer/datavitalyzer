@@ -18,7 +18,7 @@ I help universities, businesses, and communities unlock the power of data by tur
 - Platforms: Power BI, Azure, Microsoft Fabric, Project Online, Excel
 - Productivity & Collaboration: Microsoft 365 (Teams, OneNote, Loop, PowerPoint, Excel ...), Copilot  
 
-🌍 **Based in:** Morocco — collaborating remotely worldwide  
+🌍 **Based in:** Morocco | collaborating remotely worldwide  
 📬 **Reach me at:** Connect with me on [LinkedIn](https://www.linkedin.com/in/outmanbaz/)   
 💡 **Fun fact:** I believe data is more than numbers it’s a story waiting to be told.
 
@@ -26,9 +26,9 @@ I help universities, businesses, and communities unlock the power of data by tur
 
 ## 🎤 Talks and events
 
-- **Microsoft Tech Day** — Inspiring students and professionals with the future of AI & Cloud  
-- **University Conferences** — Sharing practical pathways to careers in Data & Analytics  
-- **Corporate Training Sessions** — Guiding teams to harness Power BI & Copilot effectively  
+- **Microsoft Tech Day** : Inspiring students and professionals with the future of AI & Cloud  
+- **University Conferences** : Sharing practical pathways to careers in Data & Analytics  
+- **Corporate Training Sessions** : Guiding teams to harness Power BI & Copilot effectively  
 
 ---
 
