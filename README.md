@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Welcome!
 
-<!--
-**datavitalyzer/datavitalyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Outman BAZ**  
+**Data Analyst | Consultant | Speaker & Trainer**
 
-Here are some ideas to get you started:
+✨ **What I do:**  
+I help universities, businesses, and communities unlock the power of data by turning complex information into clear, actionable insights. Whether on stage, in classrooms, or through hands‑on workshops, I make technology practical and inspiring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Currently sharing and exploring:**  
+- Power BI & Microsoft Fabric  
+- Copilot & Microsoft 365 for productivity (Teams, OneNote, Loop, PowerPoint, Excel ...) 
+- AI, Data Analytics & Cloud Computing
+- Microsoft Project Online
+- Minecraft Education for creative learning experiences  
+
+🛠️ **My toolkit:**  
+- Languages: Python, SQL, DAX  
+- Platforms: Power BI, Azure, Microsoft Fabric, Project Online
+- Productivity & Collaboration: Microsoft 365, Copilot  
+
+🌍 **Based in:** Morocco  
+📬 **Reach me at:** Connect with me on [LinkedIn](https://www.linkedin.com/in/outmanbaz/)   
+💡 **Fun fact:** I believe data is more than numbers it’s a story waiting to be told.
+
+---
+
+## 🎤 Talks and events
+
+- **Microsoft Tech Day** — Inspiring students and professionals with the future of AI & Cloud  
+- **University Conferences** — Sharing practical pathways to careers in Data & Analytics  
+- **Corporate Training Sessions** — Guiding teams to harness Power BI & Copilot effectively  
+
+---
+
+## 🤝 How I can help
+
+- **Consulting:** Data strategy, workflow automation, AI enablement  
+- **Workshops & Training:** Power BI, Microsoft Fabric, Copilot, M365 adoption  
+- **Speaking:** Inspiring talks at universities, conferences, and community events  
+- **Collaboration:** Open‑source contributions and knowledge sharing
+- **Student Support & Microsoft Tech Guidance:** Helping students shape impactful presentations, enhance public speaking skills, and stay up‑to‑date with the latest Microsoft technologies and updates
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/outmanbaz/">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn Group -->
+  <a href="https://www.linkedin.com/groups/13349431/">
+    <img src="https://img.shields.io/badge/LinkedIn_Group-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/datavitalyzer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
