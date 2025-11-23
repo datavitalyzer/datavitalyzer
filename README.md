@@ -1,24 +1,24 @@
 # 👋 Welcome!
 
 I'm **Outman BAZ**  
-**Data Analyst | Consultant | Speaker & Trainer**
+**Data & Analytics Solution Architect | Consultant | Speaker & Trainer**
 
 ✨ **What I do:**  
 I help universities, businesses, and communities unlock the power of data by turning complex information into clear, actionable insights. Whether on stage, in classrooms, or through hands‑on workshops, I make technology practical and inspiring.
 
 🎯 **Currently sharing and exploring:**  
 - Power BI & Microsoft Fabric  
-- Copilot & Microsoft 365 for productivity (Teams, OneNote, Loop, PowerPoint, Excel ...) 
+- Copilot & Microsoft 365 for productivity  
 - AI, Data Analytics & Cloud Computing
 - Microsoft Project Online
 - Minecraft Education for creative learning experiences  
 
 🛠️ **My toolkit:**  
-- Languages: Python, SQL, DAX  
-- Platforms: Power BI, Azure, Microsoft Fabric, Project Online
-- Productivity & Collaboration: Microsoft 365, Copilot  
+- Languages: SQL, DAX, "M"
+- Platforms: Power BI, Azure, Microsoft Fabric, Project Online, Excel
+- Productivity & Collaboration: Microsoft 365 (Teams, OneNote, Loop, PowerPoint, Excel ...), Copilot  
 
-🌍 **Based in:** Morocco  
+🌍 **Based in:** Morocco — collaborating remotely worldwide  
 📬 **Reach me at:** Connect with me on [LinkedIn](https://www.linkedin.com/in/outmanbaz/)   
 💡 **Fun fact:** I believe data is more than numbers it’s a story waiting to be told.
 
