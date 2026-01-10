@@ -4,7 +4,7 @@ I'm **Outman BAZ**
 **Data & Analytics Solution Architect | Consultant | Speaker & Trainer**
 
 ✨ **What I do:**  
-I help universities, businesses, and communities unlock the power of data by turning complex information into clear, actionable insights. Whether on stage, in classrooms, or through hands‑on workshops, I make technology practical and inspiring.
+I help universities, businesses, and communities unlock the power of data by turning complex information into clear, actionable insights, whether on stage, in classrooms, or through hands‑on workshops, I make technology practical and inspiring.
 
 🎯 **Currently sharing and exploring:**  
 - Power BI & Microsoft Fabric  
