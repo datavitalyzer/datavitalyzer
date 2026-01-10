@@ -49,7 +49,7 @@ Enjoying the content? Follow and ⭐ to stay updated and support future work
 
 ---
 
-## 📫 Connect with me
+## 📫 Let's connect
 
 <p align="center">
   <!-- LinkedIn Profile -->
