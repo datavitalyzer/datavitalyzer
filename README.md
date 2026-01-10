@@ -1,4 +1,4 @@
-# 👋 Welcome!
+# 👋 Welcome
 
 I'm **Outman BAZ**  
 **Data & Analytics Solution Architect | Consultant | Speaker & Trainer**
@@ -39,6 +39,13 @@ I help universities, businesses, and communities unlock the power of data by tur
 - **Speaking:** Inspiring talks at universities, conferences, and community events  
 - **Collaboration:** Open‑source contributions and knowledge sharing
 - **Student Support & Microsoft Tech Guidance:** Helping students shape impactful presentations, enhance public speaking skills, and stay up‑to‑date with the latest Microsoft technologies and updates
+
+
+---
+
+## 🌟 Follow & Support
+
+Enjoying the content? Follow and ⭐ to stay updated and support future work
 
 ---
 
