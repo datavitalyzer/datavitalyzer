@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm **Outman BAZZAZ (a.k.a outman BAZ)**  
+I'm **Outman BAZZAZ (a.k.a Outman BAZ)**  
 **Data & Analytics Solution Architect | Consultant | Speaker & Trainer**
 
 ✨ **What I do:**  
